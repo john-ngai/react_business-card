@@ -3,6 +3,7 @@ body {
   font-family: 'Inter', sans-serif;
 }
 
+/* START - App Component */
 .container {
   background-color: #1A1B21;
   border-radius: 10px;
@@ -13,6 +14,7 @@ body {
   transform: translateX(-50%);
   top: 5%
 }
+/* END - App Component */
 
 
 /* START - Info Component */
@@ -78,3 +80,49 @@ body {
   margin-right: 8px;
 }
 /* END - Info Component */
+
+
+/* START - About Component */
+.container--about {
+  width: 75%;
+  position: relative;
+  top: 33px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #FFF;
+}
+
+.container--about > h1 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.container--about > p {
+  font-size: 10px;
+  margin-top: 5px;
+}
+/* END - About Component */
+
+
+/* START - Interests Component */
+.container--interests {
+  width: 75%;
+  position: relative;
+  top: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #FFF;
+}
+
+.container--interests > h1 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.container--interests > p {
+  font-size: 10px;
+  margin-top: 5px;
+}
+/* END - About Component */
