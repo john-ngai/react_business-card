@@ -6,9 +6,12 @@ import GitHubIcon from '../images/github.png'
 export default function Footer() {
   return (
     <div className="container--footer">
-      <img src={TwitterIcon} alt='twitter icon' />
-      <img src={FacebookIcon} alt='facebook icon' />
-      <img src={InstagramIcon} alt='instagram icon' />
+      <a><img src={TwitterIcon} alt='twitter icon' /></a>
+      
+      <a><img src={FacebookIcon} alt='facebook icon' /></a>
+      
+      <a><img src={InstagramIcon} alt='instagram icon' /></a>
+      
       <a href='https://github.com/john-ngai'
         target='_blank' rel='noreferrer'
       >
