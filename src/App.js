@@ -1,7 +1,9 @@
+import Info from './components/Info';
+
 export default function App() {
   return (
     <div className="container">
-      <h1>App Component</h1>
+      <Info />
     </div>
   );
 }
