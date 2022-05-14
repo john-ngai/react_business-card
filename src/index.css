@@ -1,0 +1,13 @@
+body {
+  background-color: #23252C;
+}
+
+.container {
+  border: 1px solid red;
+  position: absolute;
+  width: 317px;
+  height: 780px;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 5%
+}
