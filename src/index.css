@@ -3,7 +3,8 @@ body {
 }
 
 .container {
-  border: 1px solid red;
+  border: 1px solid white;
+  border-radius: 10px;
   position: absolute;
   width: 317px;
   height: 780px;
