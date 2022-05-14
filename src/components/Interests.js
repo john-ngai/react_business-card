@@ -3,8 +3,8 @@ export default function Interests() {
     <div className="container--interests">
       <h1>Interests</h1>
       <p>
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. 
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Health. Fitness. Reader. Food lover. Internet fanatic.
+        Tech obsessed. Podcast lover. Entrepreneur. Outdoorsman.
       </p>
     </div>
   );
