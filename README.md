@@ -11,3 +11,7 @@ Section 1 solo project from [Scrimba's free "Learn React"](https://scrimba.com/l
   * About
   * Interest
   * Footer (social icons)
+
+## Final Product
+
+![final product](https://github.com/john-ngai/react_business-card/blob/main/src/images/final-product.png)
